@@ -1,1 +1,57 @@
+#StudioArt {
+    background-color: #F65050;}
 
+#Economics {
+    background-color:  #C1D4F1;}
+
+#ComputerScience {
+    background-color: #B5F9C7;}
+
+#Politics {
+    background-color: #7CCDFA;}
+#Mathematics {
+    background-color: #50D4F6;}
+
+#landing {
+    background-color: #F9B5EE; }
+
+
+h1 {
+    font-family: cursive; 
+    letter-spacing: 0.1em;
+    text-transform: capitalize;
+    text-decoration: underline;}
+p {
+    font-size: 150%;
+    font-family: monospace;}
+
+table {
+    border-collapse: collapse;}
+
+table {
+    background-color: #D9DDDE;}
+    
+th, td {
+    border-style: solid;
+     }
+    th, {
+    font-family: cursive; }
+
+    td {
+    font-family: monospace;
+    font-size: 125%; }
+
+.navigation
+
+a:link {
+    color: red;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    color: cyan;
+}
+a:active {
+    color: blue
+}
